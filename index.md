@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-## Portfolio
+## Welcome to home of the stickmans
 
 # Tikku ukkojen koti
 
