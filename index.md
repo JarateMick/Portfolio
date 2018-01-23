@@ -1,4 +1,13 @@
 ## Welcome to GitHub Pages
+## Portfolio
+
+# Tikku ukkojen koti
+
+täältä löydät päheimmät tikku ukko pelit!
+
+# tikku ukot ovat tulevaisuus
+- Pelaajat rakastavat tikku ukkoja
+- Tikku ukot rakastavat tikku ukkoja
 
 You can use the [editor on GitHub](https://github.com/JarateMick/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
