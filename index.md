@@ -9,6 +9,7 @@ täältä löydät päheimmät tikku ukko pelit!
 - Tikku ukot rakastavat tikku ukkoja
 
 {% include naked_owl.html %}
+{% include moottori_test.html %}
 {% include test.html %}
 
 ![meemi kuva](testiKuva.jpg)
