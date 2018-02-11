@@ -10,7 +10,7 @@ täältä löydät päheimmät tikku ukko pelit!
 
 
 {% include moottori_test.html %}
-{% include moottori_test2.html %}
+
 
 ![meemi kuva](testiKuva.jpg)
 
