@@ -62,7 +62,7 @@
     <script>
 
           (function() {
-            var memoryInitializer = 'last2/moottori.js.mem';
+            var memoryInitializer = 'moottori.js.mem';
             if (typeof Module['locateFile'] === 'function') {
               memoryInitializer = Module['locateFile'](memoryInitializer);
             } else if (Module['memoryInitializerPrefixURL']) {
@@ -75,7 +75,7 @@
           })();
 
           var script = document.createElement('script');
-          script.src = "last2/moottori.js";
+          script.src = "moottori.js";
           document.body.appendChild(script);
 
 </script>
